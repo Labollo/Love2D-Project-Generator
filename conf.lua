@@ -1,4 +1,4 @@
 function love.conf(t)
-    t.window.title = "Project Creator"
+    t.window.title = "Love2D Project Generator"
     t.console = true
 end
