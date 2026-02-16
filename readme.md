@@ -1,6 +1,6 @@
 # Love2D Project Generator
 
-A small application that lets you quickly create new Love2D projects using predefined templates and optional libraries.
+A Love2D project creation tool that automates template copying, library setup, and project structure generation, helping developers start new projects in seconds.
 
 ## Features
 
